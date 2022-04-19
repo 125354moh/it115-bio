@@ -1,2 +1,3 @@
-My name is Ali. I am a forthcoming application developer studying at seattle central college
+# it115-bio
+A repo to store info for a short bio
 
